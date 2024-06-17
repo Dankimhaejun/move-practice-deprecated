@@ -1,0 +1,5 @@
+# Ignore .aptos files one level deep
+*/.aptos
+
+# Ignore build directories one level deep
+*/build/
