@@ -1,5 +1,5 @@
-# Ignore .aptos files one level deep
-*/.aptos
+# Ignore all .aptos files at any level
+**/.aptos
 
-# Ignore build directories one level deep
-*/build/
+# Ignore all build directories at any level
+**/build/
